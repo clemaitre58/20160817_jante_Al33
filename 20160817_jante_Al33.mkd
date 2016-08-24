@@ -1,2 +1,40 @@
-[Projet kickstarter](https://www.kickstarter.com/projects/aforcewheels/al33-the-fastest-aluminum-bicycle-wheels?token=416cf50a)
+J'ai récemment sur Kickstarter un projet mettant en lumière la fabrication de roues artisanales sur un modèle de jantes complètements personnalisés en aluminium d'une hauteur de 33mm et d'un poids très intéressant (465gr). 
+Ce projet est porté par Jan-Willen van Soest.
+
+
+# Une jante de 33mm pour concurrencer les modèles en carbones
+
+Comme il l'explique dans l'introduction du projet, Jan-Willem van Soest a construit des roues avec des jantes de carbone depuis qu'il était un coureur junior, d'abord pour lui-même, puis son entraîneur, puis de plus en plus pour des amis. 
+Alors, il a créé une entreprise. Il proprose des roues plus rigide, plus solide et plus légère que celles qu'on trouve dans les productions industrielle.
+5 ans après avoir lacer sa première roue, il coordonne le lamcement d'une exclusive en alliange d'aluminium léger.
+
+«Je cherchais une solution aérodynamique similaire à jantes en carbone, mais je voulais de l'aluminium" indique van Soest. 
+
+"Nous ne parvenions pas à trouver quelque chose sous 550g qui avait la résistance et la rigidité que nous voulions. 
+Donc, nous avons changé de matériaux, et que nous obtenons le poids de la jante sous les 500g avec un objectif de poids 465-475g ".
+
+La jante a une forme toroïdale, avec des dimensions très similaires aux jantes en carbone de plusieurs grandes marques très populaires.
+De plus la jante est compatible Tubeless. Alors,Intéressé?
+
+
+La conception de la jante plus large permet de correspondre à la rigidité latérale du carbone, mais vous conservez la conformité de l'alliage de sorte que la conduite et la traction sont potentiellement nettement améliorées sur le carbone. Van Soest dit que devient vraiment évident dans le virage à grande vitesse trouvée dans les cris et sur les pavés de Roubaix, où ils ont été testés.
+
+La jante sera disponible en 2 finition, un classique flanc usiné brutte et une version avec une couche dure en céramique. D'ailleurs le constructeur conseille fortement cette version.
+
+# Des roues complètes
+
+Les roues complètes seront également disponible et auront soubie l'optimisation du constructeur. Elles seront lacées avec un 2:1, similaire à Campagnolo.
+Cependant, à la différence du construteur transalpin, les rayons ORL et RL seront différenciés avaec une section plus importante côté ORL de manière à augmenter la rigidité. De la même manière, les jantes seront lacées en 9:18h
+
+Enfin pour les roues complètes, ils vont utiliser les écous internes pour maximiser les qualités aérodynamique de l'ensemble.
+
+#Fabrication Taiwainnaise éprouvée!
+
+Aprés le prototypage initial en Hollande, ils ont trouvé un partenaire de fabrication à Taiwan qui a déjà expérimenté l'alliange 6069 d'aluminium. Aliage très proche de l'alliage AF9X, développé par le porteur de projet.
+
+
+#Un financement Kickstarter pour lever 20 000$
+
+Le concepteur cherchent à lever un peu moins de 20 000 $  afin de financer le premier lot de production ainsi que des choses supplémentaires. 
+Vous pouvez donc vous offrir des jantes avec la finission classique pour (135 $ au détail) ou celles au revêtement céramique (160 $). Il est également possible de pré-commander une paire grâce à la campagne de crowdfunding.
 
